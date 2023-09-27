@@ -1,0 +1,6 @@
+# python 3
+bcrypt
+flask
+flask_login
+requests
+pymongo
